@@ -12,7 +12,7 @@ die "Can't extract language codes from Locale::Codes::Language_Codes"
     unless @$codes;
 
 our $schema = [str => {
-    summary => 'Language code',
+    summary => 'Language code (alpha-3)',
     description => <<'_',
 
 Accept only current (not retired) codes. Only alpha-3 codes are accepted.
