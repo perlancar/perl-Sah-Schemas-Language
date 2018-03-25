@@ -4,4 +4,4 @@ package Sah::Schemas::Language;
 # VERSION
 
 1;
-# ABSTRACT: Various Sah language schemas
+# ABSTRACT: Various Sah schemas related to language codes/names
